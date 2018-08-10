@@ -60,5 +60,5 @@ calling-owl-mysql-6467975486                       0         0         0        
 ## Install
 
 ```
-$ helm plugin install https://github.com/hickeyma/helm-stop
+$ helm plugin install https://github.com/IBM/helm-stop
 ```
