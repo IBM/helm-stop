@@ -1,0 +1,6 @@
+name: "stop"
+version: "0.1.0"
+usage: "stops a release pods"
+description: |-
+  This plugin stops a release pods
+command: "$HELM_PLUGIN_DIR/stop.sh"
